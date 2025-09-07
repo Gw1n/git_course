@@ -1,0 +1,7 @@
+[core]
+	editor = 
+[user]
+	name = 
+	email = 
+[alias]
+	history = log --graph
